@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.osx": {
-        "PATH": "/Users/james/.platformio/penv/bin:/Users/james/.platformio/penv:/Users/james/Documents/google-cloud-sdk/bin:/Users/james/Documents/embedded/esp/xtensa-esp32-elf/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
